@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/farheezyx3/image/upload/v1594512726/undraw/undraw_mobile_images_rc0q.png">
-</p>
+[![Pink image of a mobile phone](https://res.cloudinary.com/farheezyx3/image/upload/v1594512726/undraw/undraw_mobile_images_rc0q.png)](https://fmustafa17.github.io/)
 
 <p align="center">👊 Software Engineer from The Bronx</p>
 <p align="center">🍊 Syracuse Alumna</p>
