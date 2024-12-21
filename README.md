@@ -6,6 +6,6 @@
 <p align="center">✨ | (• ◡•)| (❍ᴥ❍ʋ)</p>
 
 <p align="center">
-	<a href="https://twitter.com/farhanaxmustafa"><img src="https://img.shields.io/twitter/follow/farhanaxmustafa?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/fmustafa"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ 	<a href="https://medium.com/@farhanaxmustafa"><img src="https://img.shields.io/badge/@farhanaxmustafa-202235?labelColor=202235&logo=medium" alt="Medium"></a>
 </p>
